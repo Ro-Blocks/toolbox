@@ -356,5 +356,7 @@
   <category name="Variables" colour="#a55b80" custom="VARIABLE"></category>
   <category name="Functions" colour="#995ba5" custom="PROCEDURE"></category>
   <sep></sep>
-  <category name="Player" colour="#a5745b"></category>
+  <category name="Player" colour="#a5745b">
+    <block type="user_id"></block>
+  </category>
 </xml>
